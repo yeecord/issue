@@ -1,6 +1,6 @@
 # YEE式機器龍 (Yeecord)
 
-[https://yeecord.co](https://yeecord.co)
+[https://yeecord.com/](https://yeecord.com/)
 
 這裡是給各位了解目前開發的進度用的repo
 
