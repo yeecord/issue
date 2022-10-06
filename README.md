@@ -1,5 +1,7 @@
 # YEE式機器龍 (Yeecord)
 
+[简体中文](README-zh_cn.md)
+
 https://yeecord.com/
 
 ![YEE式機器龍 封面](https://cdn.yeecord.com/img/branding.png)
